@@ -24,7 +24,7 @@ let arr2 = inputArray[1].split(' ').map(el => parseInt(el));
 // let arr1 = [5, 3];
 // let arr2 = [188930, 194123, 201345, 154243, 154243,];
 
-
+console.log(arr1, arr2);
 // Input
 // 5 3
 // 188930 194123 201345 154243 154243
